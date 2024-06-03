@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd821322fe915c1458cd3109f4fa2300
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LT: {instanceID: 0}
+  - T: {instanceID: 0}
+  - RT: {instanceID: 0}
+  - L: {instanceID: 0}
+  - M: {instanceID: 0}
+  - R: {instanceID: 0}
+  - LB: {instanceID: 0}
+  - B: {instanceID: 0}
+  - RB: {instanceID: 0}
+  - rank1boxPuzzleParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
